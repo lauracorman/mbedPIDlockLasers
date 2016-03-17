@@ -1,0 +1,3 @@
+Note :
+
+The board used to lock the power of the beam in our experiment is prototyped. The eagle schematic are a first attempt toward more board production and still contain many design mistake. They are only provided in order to give an idea of what components are used in addition to the mbed board.
